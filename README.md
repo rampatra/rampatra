@@ -13,3 +13,5 @@ I am Ram and
 - 💬 Ask me about nothing. Just Google it.
 - 📫 How to reach me: [Twitter](https://twitter.com/ram__patra)
 - 😄 Fun fact: My name is of a Hindu God, has nothing to do with computers
+
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=rampatra&show_icons=true)](https://rampatra.com)
