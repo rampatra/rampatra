@@ -14,7 +14,7 @@ I am Ram and
 - 📫 How to reach me: [Twitter](https://twitter.com/ram__patra)
 - 😄 Fun fact: My name is of a Hindu God, has nothing to do with computers
 
-[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=rampatra&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=rampatra&count_private=true&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/rampatra?label=Follow%20%40rampatra&style=social)](https://github.com/rampatra) &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/ram__patra?style=social)](https://twitter.com/ram__patra)
