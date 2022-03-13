@@ -1,4 +1,4 @@
-<img width="1680" alt="twitter_cover_upgrade_presentation" src="https://user-images.githubusercontent.com/2862724/158058079-1c27a19c-d036-40f2-896c-f6406534b745.png">
+<a href="https://presentify.compzets.com"><img width="1680" alt="twitter_cover_upgrade_presentation" src="https://user-images.githubusercontent.com/2862724/158058079-1c27a19c-d036-40f2-896c-f6406534b745.png"></a>
 
 
 ### Hi there 👋
@@ -10,10 +10,10 @@
 I am Ram and
 
 - 🔭 I’m currently working on [Presentify](https://presentify.compzets.com)
-- 🌱 I’m currently learning Swift and macOS development
+- ✍️  I blog occasionally at [blog.rampatra.com](https://blog.rampatra.com)
+- 🌱 I’m currently learning macOS development and SwiftUI
 - 👯 I’m looking to collaborate on marketing [Presentify](https://presentify.compzets.com)
-- 🤔 I’m looking for help with my [SOF questions](https://stackoverflow.com/users/1385441/ram-patra?tab=questions)
-- 💬 Ask me about apps, start-ups, indie developers, or anything tech
+- 💬 Ask me about apps, start-ups, indie developement, blockchain, crypto, or anything tech
 - 📫 How to reach me: [Twitter](https://twitter.com/ram__patra)
 - 😄 Fun fact: My name is of a Hindu God, has nothing to do with computers
 
