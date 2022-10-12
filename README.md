@@ -15,7 +15,7 @@ I am Ram and
 - 👯 I’m looking to collaborate on marketing [Presentify](https://presentify.compzets.com)
 - 💬 Ask me about apps, start-ups, indie developement, blockchain, crypto, or anything tech
 - 📫 How to reach me: [Twitter](https://twitter.com/ram__patra)
-- 😄 Fun fact: My name is of a Hindu God, has nothing to do with computers
+- 😄 Fun fact: My name is derived from an Indian God, has nothing to do with computers
 
 [![Ram's github stats](https://github-readme-stats.vercel.app/api?username=rampatra&count_private=true&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
 
