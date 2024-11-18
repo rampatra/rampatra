@@ -6,18 +6,14 @@
 
 ### Hi there 👋
 
-<!--
-**rampatra/rampatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 I am Ram and
 
-- 🔭 I’m currently working on [Presentify](https://presentify.compzets.com)
+- 🔭 I’m currently working on [Apps.deals](https://apps.deals),[FaceScreen](https://apps.apple.com/app/id6702028512),[Presentify]([https://presentifyapp.com](https://apps.apple.com/app/id1507246666))
 - ✍️  I blog occasionally at [blog.rampatra.com](https://blog.rampatra.com)
 - 🌱 I’m currently learning macOS development and SwiftUI
-- 👯 I’m looking to collaborate on marketing [Presentify](https://presentify.compzets.com)
+- 👯 I’m looking to collaborate on marketing my apps
 - 💬 Ask me about apps, start-ups, indie developement, blockchain, crypto, or anything tech
-- 📫 How to reach me: [Twitter](https://twitter.com/ram__patra)
+- 📫 How to reach me: [Twitter](https://twitter.com/rampatra_)
 - 😄 Fun fact: My name is derived from an Indian God, has nothing to do with computers
 
 [![Ram's github stats](https://github-readme-stats.vercel.app/api?username=rampatra&count_private=true&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
