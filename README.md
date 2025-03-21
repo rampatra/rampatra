@@ -1,6 +1,6 @@
 [![twitter-banner-softal](https://github.com/user-attachments/assets/d032340f-2de7-4b4a-ba7f-850dfa315e44)](https://rampatra.com)
 <!--
-<a href="https://presentifyapp.com"><img width="1680" alt="twitter_cover_upgrade_presentation" src="https://user-images.githubusercontent.com/2862724/158058079-1c27a19c-d036-40f2-896c-f6406534b745.png"></a>
+<a href="https://softal.io"><img width="1680" alt="twitter_cover_upgrade_presentation" src="https://user-images.githubusercontent.com/2862724/158058079-1c27a19c-d036-40f2-896c-f6406534b745.png"></a>
 -->
 
 
